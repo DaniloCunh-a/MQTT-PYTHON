@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+.idea
+gmqtt.egg-info
+dist/
+build/
+# virtualenvs
+env/
+venv/
+pyenv/
+
+# pytest
+.coverage
+.pytest_cache/
+htmlcov/
